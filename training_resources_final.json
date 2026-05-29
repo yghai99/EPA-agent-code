@@ -1,0 +1,82 @@
+[
+  {
+    "Title":"Terraform: Automate Infrastructure on Any Cloud",
+    "Category":"Infrastructure as Code",
+    "URL":"https:\/\/developer.hashicorp.com\/terraform",
+    "Description":"Learn all about Terraform state, modules, providers, workspaces, variables. Learn how to use Terraform CLI to automate cloud infrastructure and resources. Access to the sandbox and best practices.",
+    "SkillLevel":"Beginner",
+    "LinkedRoles":"Cloud Engineer, Platform Engineer, Software Engineer"
+  },
+  {
+    "Title":"Lead with Emotional Intelligence",
+    "Category":"Leadership",
+    "URL":"https:\/\/degreed.com\/courses\/lead-with-emotional-intelligence?d=6957223&inputtype=course&orgsso=capgemini&inputType=Course",
+    "Description":"How leaders become more effective, tuning into your thoughts and feelings, managing your workplace relationships better, and more.",
+    "SkillLevel":"Beginner",
+    "LinkedRoles":"Manager, Delivery Lead"
+  },
+  {
+    "Title":"AWS Certified DevOps Engineer Professional 2026 - DOP-C02",
+    "Category":"DevOps",
+    "URL":"https:\/\/capgemini.udemy.com\/course\/aws-certified-devops-engineer-professional-hands-on\/?kw=devops&src=sac",
+    "Description":"Pass the AWS Certified DevOps Engineer Professional Certification (DOP-C02). Create automations between all the various AWS services. Perform operations that will teach real-world skills.",
+    "SkillLevel":"Advanced",
+    "LinkedRoles":"DevOps Engineer, Platform Engineer"
+  },
+  {
+    "Title":"Advanced Query Performance Management in SQL Server",
+    "Category":"Database",
+    "URL":"https:\/\/www.pluralsight.com\/courses\/sql-server-25-advanced-query-performance",
+    "Description":"Explore how to configure Query Store for production monitoring and capture a baseline to compare against later. Discover how to use Query Store to pinpoint your slowest queries and apply fixes. Diagnose performance regressions after software deployments or database configuration changes, and more.",
+    "SkillLevel":"Advanced",
+    "LinkedRoles":"Database Engineer, Database Administrator, Software Engineer"
+  },
+  {
+    "Title":"Teamwork",
+    "Category":"Teamwork",
+    "URL":"https:\/\/capgemini.udemy.com\/course\/teamwork\/",
+    "Description":"Become more effective team players and leaders, playing an active role in the success of the team.",
+    "SkillLevel":"Beginner",
+    "LinkedRoles":"Any collaborative role"
+  },
+  {
+    "Title":"Leadership: Practical Leadership Skills",
+    "Category":"Leadership",
+    "URL":"https:\/\/capgemini.udemy.com\/course\/practical-leadership\/",
+    "Description":"Delegate effectively to empower their team. Vast array of practical tools to be a fantastic leader. Feel confident enough to involve employees in decision making and planning, and more.",
+    "SkillLevel":"Intermediate",
+    "LinkedRoles":"Manager, Delivery Lead"
+  },
+  {
+    "Title":"Associate Engineers Core Learning Pathway",
+    "Category":"Core Engineering Knowledge",
+    "URL":"https:\/\/degreed.com\/pathway\/49e1ewyrp5?orgsso=capgemini",
+    "Description":"Includes fundamental training on Agile, GitLab, Cyber Security, Linux, AWS, Azure, and much more.",
+    "SkillLevel":"Beginner",
+    "LinkedRoles":"Associate Engineer, Scrum Master, Cloud Engineer, DevOps Engineer"
+  },
+  {
+    "Title":"AWS Certified AI Practitioner AIF-C01",
+    "Category":"AI",
+    "URL":"https:\/\/capgemini.udemy.com\/course\/aws-ai-practitioner-certified\/",
+    "Description":"Covers the newest AIF-C01 exam. The AWS Certified AI Practitioner certification is a great entry-level certification for Artificial Intelligence on AWS.",
+    "SkillLevel":"Beginner",
+    "LinkedRoles":"AI Analyst, AI Practitioner"
+  },
+  {
+    "Title":"Certified Kubernetes Administrator (CKA) with Practice Tests",
+    "Category":"Containerisation",
+    "URL":"https:\/\/capgemini.udemy.com\/course\/certified-kubernetes-administrator-with-practice-tests\/",
+    "Description":"Teaches how to Administer a Kubernetes Cluster, how to Design a Kubernetes Cluster, how to Configure Network on a Kubernetes Cluster, and more.",
+    "SkillLevel":"Beginner",
+    "LinkedRoles":"Kubernetes Administrator, Platform Engineer"
+  },
+  {
+    "Title":"AWS Certified Solutions Architect Associate Certification SAA-C03",
+    "Category":"Cloud Architecture",
+    "URL":"https:\/\/capgemini.udemy.com\/course\/aws-certified-solutions-architect-associate-saa-c03\/learn\/lecture\/39035302#overview",
+    "Description":"High-level concepts for cloud architecture, networking, and resilience.",
+    "SkillLevel":"Intermediate",
+    "LinkedRoles":"Solutions Architect, Platform Engineer"
+  }
+]
